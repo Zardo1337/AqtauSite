@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AktauVoiceApi.Controllers.ReportsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Reports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AktauVoiceApi.Controllers.ReportsController",
+    "Method": "Create",
+    "RelativePath": "api/Reports",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "report",
+        "Type": "AktauVoiceApi.Models.Report",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
