@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AktauVoiceApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c941544abec0a514aabd5e0423f729c8fe52f2e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AktauVoiceApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AktauVoiceApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

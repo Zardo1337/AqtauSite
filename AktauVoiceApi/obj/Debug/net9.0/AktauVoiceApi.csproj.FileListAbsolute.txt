@@ -258,3 +258,4 @@ C:\Users\nurym\Desktop\AqtauSite\AktauVoiceApi\obj\Debug\net9.0\refint\AktauVoic
 C:\Users\nurym\Desktop\AqtauSite\AktauVoiceApi\obj\Debug\net9.0\AktauVoiceApi.pdb
 C:\Users\nurym\Desktop\AqtauSite\AktauVoiceApi\obj\Debug\net9.0\AktauVoiceApi.genruntimeconfig.cache
 C:\Users\nurym\Desktop\AqtauSite\AktauVoiceApi\obj\Debug\net9.0\ref\AktauVoiceApi.dll
+C:\Users\nurym\Desktop\AqtauSite\AktauVoiceApi\obj\Debug\net9.0\AktauVoiceApi.sourcelink.json
